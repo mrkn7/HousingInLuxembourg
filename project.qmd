@@ -5,7 +5,6 @@ format: html
 editor: visual
 ---
 
-
 ## **Introduction**
 
 We are going to collaborate on a very basic project in this chapter. We'll be working on this project through to the conclusion of the book. We tried rewrite that project using the strategies that was taught to us. We are going to have developed a repeatable analytical pipeline. We will start off simply by stating that only objective is to complete the analysis.
